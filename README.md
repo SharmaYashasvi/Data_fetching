@@ -6,5 +6,9 @@ Code for fetching data using api , by Appling some filters
 # create a file named as `config.env` and provide following variables and their values,
 
 PORT = 4000
+
+
 MONGO_URI = your mongo uri
+
+
 FRONTEND_URL = your frontend url link 
